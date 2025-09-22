@@ -18,6 +18,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, atualmen
 Meu foco é consolidar conhecimentos técnicos, aprimorar a capacidade de resolver problemas complexos e desenvolver projetos completos que possam ser utilizados como portfólio. Busco oportunidades para ingressar no mercado de tecnologia, expandir minhas habilidades e construir uma carreira sólida como desenvolvedor full-stack.
 
 ## Tecnologias Utilizadas
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
