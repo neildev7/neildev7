@@ -1,9 +1,9 @@
 # Neil Lopes
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no SENAI, atualmente com 17 anos, focado no desenvolvimento de competências técnicas e na construção de um portfólio sólido. Meu objetivo é evoluir como desenvolvedor full-stack, adquirindo experiência prática e aprofundando meus conhecimentos em diferentes áreas da tecnologia.
+Sou estudante de Desenvolvimento de Sistemas (DS) no SENAI, atualmente com 17 anos, focado no desenvolvimento de competências técnicas e na construção de um portfólio sólido. Meu objetivo é evoluir como desenvolvedor full-stack, adquirindo experiência prática e aprofundando meus conhecimentos em diferentes áreas da tecnologia.
 
 ## Formação e Aprendizado
-- Estudante de ADS no SENAI, com foco em lógica de programação, algoritmos, banco de dados, desenvolvimento de software e sistemas operacionais.
+- Estudante de DS no SENAI, com foco em lógica de programação, algoritmos, banco de dados, desenvolvimento de software e sistemas operacionais.
 - Cursos online de Python, JavaScript, Node.js, fundamentos de HTML e CSS e introdução à Inteligência Artificial.
 - Experiência prática em desenvolvimento backend e integração com bancos de dados relacionais e não relacionais.
 - Estudo contínuo em computação em nuvem e ferramentas modernas de desenvolvimento.
