@@ -1,6 +1,6 @@
 # Neil Lopes
 
-Sou estudante de Desenvolvimento de Sistemas (DS) no SENAI, atualmente com 17 anos, focado no desenvolvimento de competências técnicas e na construção de um portfólio sólido. Meu objetivo é evoluir como desenvolvedor full-stack, adquirindo experiência prática e aprofundando meus conhecimentos em diferentes áreas da tecnologia.
+Sou estudante de Desenvolvimento de Sistemas (DS) no SENAI, atualmente com 18 anos, focado no desenvolvimento de competências técnicas e na construção de um portfólio sólido. Meu objetivo é evoluir como desenvolvedor full-stack, adquirindo experiência prática e aprofundando meus conhecimentos em diferentes áreas da tecnologia.
 
 ## Formação e Aprendizado
 - Estudante de DS no SENAI, com foco em lógica de programação, algoritmos, banco de dados, desenvolvimento de software e sistemas operacionais.
